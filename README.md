@@ -1,17 +1,17 @@
 # Relat-rio-de-implementa-o-de-servi-os-AWS
 Relatório do projeto da DIO do curso "Computação em Nuvem"
 
-# RELATÃ“RIO DE IMPLEMENTAÃ‡ÃƒO DE SERVIÃ‡OS AWS
+# RELATÓRIO DE IMPLEMENTAÇÃO DE SERVIÇOS AWS
 
 Data: 17-07-2026
 Empresa: Abstergo Industries 
-ResponsÃ¡vel: Lucas Algarve Pereira
+Responsável: Lucas Algarve Pereira
 
-## IntroduÃ§Ã£o
-Este relatÃ³rio apresenta o processo de implementaÃ§Ã£o de ferramentas na empresa Abstergo Industries, realizado por Lucas Algarve Pereira. O objetivo do projeto foi elencar 3 serviÃ§os AWS, com a finalidade de realizar diminuiÃ§Ã£o de custos imediatos.
+## Introdução
+Este relatório apresenta o processo de implementação de ferramentas na empresa Abstergo Industries, realizado por Lucas Algarve Pereira. O objetivo do projeto foi elencar 3 serviços AWS, com a finalidade de realizar diminuição de custos imediatos.
 
-## DescriÃ§Ã£o do Projeto
-O projeto de implementaÃ§Ã£o de ferramentas foi dividido em 3 etapas, cada uma com seus objetivos especÃ­ficos. A seguir, serÃ£o descritas as etapas do projeto:
+## Descrição do Projeto
+O projeto de implementação de ferramentas foi dividido em 3 etapas, cada uma com seus objetivos específicos. A seguir, serão descritas as etapas do projeto:
 
 Etapa 1: 
 - Amazon Relational Database Service 
@@ -68,7 +68,7 @@ Aurora organiza os dados, ECR garante a infraestrutura escalável, e o SNS conec
 
 
 ## ConclusÃ£o
-A implementaÃ§Ã£o de ferramentas na empresa *Abstergo Industries tem como esperado Amazon Relational Database Service, Amazon Simple Notification Service – SNS e ECR – Elastic Container Registry*, o que aumentarÃ¡ a eficiÃªncia e a produtividade da empresa. Recomenda-se a continuidade da utilizaÃ§Ã£o das ferramentas implementadas e a busca por novas tecnologias que possam melhorar ainda mais os processos da empresa.
+A implementação de ferramentas na empresa *Abstergo Industries tem como esperado Amazon Relational Database Service, Amazon Simple Notification Service – SNS e ECR – Elastic Container Registry*, o que aumentará a eficiência e a produtividade da empresa. Recomenda-se a continuidade da utilização das ferramentas implementadas e a busca por novas tecnologias que possam melhorar ainda mais os processos da empresa.
 
 ## Anexos
 
@@ -77,6 +77,6 @@ https://1drv.ms/w/c/8098A09EC5CB1A61/IQCeZ8J4f0WJQb5aC8e1MOpAAbuQY9mysUlvyxaWCws
 https://1drv.ms/w/c/8098A09EC5CB1A61/IQCyBVX9r05uSrOfgHq1K-rXAaQwFaGhvDJw_LZdwU7QSTQ?e=VKjaJL
 
 
-Assinatura do ResponsÃ¡vel pelo Projeto:
+Assinatura do Responsável pelo Projeto:
 
 Lucas Algarve Pereira
