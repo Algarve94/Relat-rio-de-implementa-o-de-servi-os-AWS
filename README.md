@@ -1,4 +1,4 @@
-# Relat-rio-de-implementa-o-de-servi-os-AWS
+# Relatorio-de-implementacao-de-servicos-AWS
 Relatório do projeto da DIO do curso "Computação em Nuvem"
 
 # RELATÓRIO DE IMPLEMENTAÇÃO DE SERVIÇOS AWS
@@ -8,25 +8,25 @@ Empresa: Abstergo Industries
 Responsável: Lucas Algarve Pereira
 
 ## Introdução
-Este relatório apresenta o processo de implementação de ferramentas na empresa Abstergo Industries, realizado por Lucas Algarve Pereira. O objetivo do projeto foi elencar 3 serviços AWS, com a finalidade de realizar diminuição de custos imediatos.
+Este relatório apresenta o processo de implementação de ferramentas na empresa Abstergo Industries, realizado por Lucas Algarve Pereira. O objetivo do projeto foi elencar 3 serviços AWS capazes de otimizar processos internos, trazendo benefícios como redução de 30% no tempo operacional, redução de perdas por validade, eliminação de servidores locais e diminuição dos custos de manutenção.
 
 ## Descrição do Projeto
 O projeto de implementação de ferramentas foi dividido em 3 etapas, cada uma com seus objetivos específicos. A seguir, serão descritas as etapas do projeto:
 
-Etapa 1: 
+### Etapa 1: Amazon RDS Aurora
 - Amazon Relational Database Service 
 - Amazon RDS com Aurora para modernizar o controle de estoque da empresa
 - Aurora oferece alta performance e disponibilidade, compatível com PostgreSQL e MySQL, garantindo confiabilidade em escala global.
 Entre os benefícios estão:
 
-Baixo custo operacional, com escalabilidade sob demanda.
+Escalabilidade sob demanda e alta disponibilidade para aplicações críticas.
 
 Segurança e auditoria avançada, com extensões como pgaudit, atendendo requisitos regulatórios do setor farmacêutico.
 
 Aplicação prática: rastreabilidade de lotes, validade e movimentação de medicamentos, além de integração com outras farmácias para otimizar a distribuição.
-Essa solução fortalece o controle de estoque, reduz perdas e garante conformidade regulatória, apoiando diretamente a missão da empresa de fornecer medicamentos com qualidade e segurança.”
+Essa solução fortalece o controle de estoque, reduz perdas e garante conformidade regulatória, apoiando diretamente a missão da empresa de fornecer medicamentos com qualidade e segurança.
 
-Etapa 2: 
+### Etapa 2: Amazon SNS 
 - Amazon Simple Notification Service – SNS
 - Utilização do SNS para automação de notificações e comunicação em tempo real.
 - A ferramenta poderá ser aplicada tanto para clientes quanto para colaboradores:
@@ -38,7 +38,7 @@ Além disso, o SNS permite monitoramento do tráfego de mensagens, sucesso nas e
 
 Modelo de custo sob demanda, com cobrança baseada no volume de utilização e geração de logs.
 
-Etapa 3: 
+### Etapa 3: Amazon ECR 
 - ECR – Elastic Container Registry 
 - Infraestrutura segura e escalável para o crescimento da empresa
 - Principais Características
@@ -55,6 +55,8 @@ Inspeção contínua para evitar vulnerabilidades e manter alta confiabilidade d
 Otimização de armazenamento  
 Varredura de imagens sem uso, com possibilidade de arquivamento ou exclusão, garantindo eficiência no espaço e nos custos.
 
+O ECR permitirá padronizar aplicações em containers, reduzindo inconsistências de ambiente e custos de manutenção da infraestrutura.
+
 Voltado ao Crescimento
 
 Projetado para migração da empresa, oferecendo base sólida para expansão.
@@ -67,8 +69,8 @@ Infraestrutura preparada para escalar junto com a evolução do negócio farmac�
 Aurora organiza os dados, ECR garante a infraestrutura escalável, e o SNS conecta tudo com comunicação confiável e imediata. Isso cria uma arquitetura completa para suportar o crescimento da empresa com eficiência e segurança
 
 
-## ConclusÃ£o
-A implementação de ferramentas na empresa *Abstergo Industries tem como esperado Amazon Relational Database Service, Amazon Simple Notification Service – SNS e ECR – Elastic Container Registry*, o que aumentará a eficiência e a produtividade da empresa. Recomenda-se a continuidade da utilização das ferramentas implementadas e a busca por novas tecnologias que possam melhorar ainda mais os processos da empresa.
+## Conclusão
+A implementação dos serviços Amazon RDS Aurora, Amazon SNS e Amazon ECR na empresa Abstergo Industries proporcionará maior eficiência operacional, escalabilidade e segurança. Recomenda-se a continuidade da utilização das ferramentas implementadas e a busca por novas tecnologias que possam melhorar ainda mais os processos da empresa.
 
 ## Anexos
 
